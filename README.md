@@ -97,7 +97,7 @@ on [FiveM](https://fivem.net)<br>
         <img src="https://github-contributor-stats.vercel.app/api?username=minemalox&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="minemalox' Github Contributor Stats">
     </td>
     <td style="border: none!important">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Developer Quote" height="100%">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Developer Quote">
     </td>
   </tr>
 </table>
