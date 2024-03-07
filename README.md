@@ -3,7 +3,7 @@
   <img align="right" src="https://visitcount.itsvg.in/api?id=minemalox&label=Profile%20Views&color=6&icon=2&pretty=false"  alt="Profile Views"/>
 </a>
 
-[![wakatime](https://wakatime.com/badge/user/018bad2e-2270-433f-9947-ab8dfc8f362a.svg)](https://wakatime.com/@018bad2e-2270-433f-9947-ab8dfc8f362a)
+[![wakatime](https://wakatime.com/badge/user/018bad2e-2270-433f-9947-ab8dfc8f362a.svg?style=for-the-badge)](https://wakatime.com/@018bad2e-2270-433f-9947-ab8dfc8f362a)
 
 <h3 align="center">
     <samp>
