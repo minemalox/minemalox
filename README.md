@@ -25,8 +25,7 @@
 
 # 💫 About Me
 
-🔭 I’m currently working on [HopeLife](https://discord.gg/hopelife) a GTA5 RP Server running
-on [FiveM](https://fivem.net)<br>
+🔭 I’m currently not working actively on any projects<br>
 🌱 I’m currently learning to master typescript<br>
 👯 I’m looking to collaborate on small projects<br>
 
