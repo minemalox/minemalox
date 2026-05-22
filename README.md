@@ -1,6 +1,6 @@
 <!-- Intro  -->
 <!--  <a href="https://visitcount.itsvg.in">
-  <img align="right" src="https://visitcount.itsvg.in/api?id=minemalox&label=Profile%20Views&color=6&icon=2&pretty=false"  alt="Profile Views"/>
+  <img align="right" src="https://visitcount.itsvg.in/api?id=minemalox&label=Profile%20Views&color=6&icon=2&pretty=false" alt="Profile Views"/>
 </a>
 
 [![wakatime](https://wakatime.com/badge/user/018bad2e-2270-433f-9947-ab8dfc8f362a.svg?style=for-the-badge)](https://wakatime.com/@018bad2e-2270-433f-9947-ab8dfc8f362a)
@@ -44,7 +44,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -54,8 +53,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
@@ -63,25 +60,26 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 ## 📊 GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=minemalox&theme=radical&hide_border=false" alt="MineMalox's GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=minemalox&theme=radical&hide_border=false" alt="Malox' GitHub Streak" />
 </div>
 <br>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=minemalox&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="MineMalox's GitHub Stats"  height="192px" width="49.5%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minemalox&theme=radical&hide_border=false" alt="minemaloxs GitHub Contribution"  height="192px" width="49.5%" />
+    <img src="https://raw.githubusercontent.com/minemalox/minemalox/refs/heads/output/github-stats.svg" alt="Malox' GitHub Stats"  height="192px" width="49.5%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minemalox&theme=radical&hide_border=false" alt="Malox' GitHub Contribution"  height="192px" width="49.5%" />
 </div>
 <br>
+<!-- 
 <div align="center">
-    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minemalox&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="MineMalox's Top Languages"  height="192px" width="49.5%" /> -->
+    <img src="https://raw.githubusercontent.com/minemalox/minemalox/refs/heads/output/top-languages.svg" alt="Malox' Top Languages"  height="192px" width="49.5%" /> 
 </div>
+-->
 
-![MineMalox's Graph](https://github-readme-activity-graph.vercel.app/graph?username=minemalox&custom_title=minemalox'%20GitHub%20Activity%20Graph&area=true&theme=redical)
+![Malox's Graph](https://github-readme-activity-graph.vercel.app/graph?username=minemalox&custom_title=Malox'%20GitHub%20Activity%20Graph&area=true&theme=redical)
 
 <table style="flex: 2">
   <tr style="border: none!important">
@@ -94,7 +92,7 @@
   </tr>
   <tr style="border: none!important">
     <td style="border: none!important">
-        <img src="https://github-contributor-stats.vercel.app/api?username=minemalox&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="minemalox' Github Contributor Stats">
+        <img src="https://raw.githubusercontent.com/minemalox/minemalox/refs/heads/output/profile-stats.svg" alt="Malox' Github Contributor Stats">
     </td>
     <td style="border: none!important">
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Developer Quote">
@@ -106,5 +104,5 @@
 
 ---
 <p align="center">
-  <img src="https://github.com/minemalox/minemalox/blob/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/minemalox/minemalox/refs/heads/output/github-contribution-grid-snake-dark.svg">
 </p>
